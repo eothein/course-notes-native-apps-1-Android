@@ -3,23 +3,3 @@
 
 # Ignore Gradle build output directory
 build
-
-*.iml
-*.acn
-*.acr
-*.alg
-*.aux
-*.bbl
-*.bcf
-*.blg
-*.glg
-*.glo
-*.gls
-*.glsdefs
-*.idx
-*.ist
-*.log
-*.pdf
-*.run.xml
-*.synctex.gz
-*.toc
